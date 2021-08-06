@@ -1,0 +1,486 @@
+@charset "utf-8";
+/* CSS Document */
+
+  
+	
+	.hinhbunhath
+        		{
+		    width: 100%;
+		    height: ;              
+		    background-color:#FFFFFF;
+		}
+		  
+	.hinhdo
+        		{
+		    width: 100%;
+		    height: 80px;               
+		    background-color:#FF0004;
+		}	  
+		  
+	.hinhxanh
+        		{
+		    width: 100%;
+		    height: 680px;               
+		    background-color:#FFFFFF;
+					
+		}	  	  
+		
+		  
+	.logo
+        {
+		    width: 30%;
+		    height: 80px;               
+		    background-color:#FFFFFF;
+		    float: left
+		}
+		  
+		  
+	.menu
+        {
+		    width: 70%;
+		    height: 80px;               
+		    background-color:#FFFFFF;
+			float: right
+				
+		}
+
+
+.timkiem
+        {
+		    width: 20%;
+		    height: 20px;               
+		    background-color:aqua;
+		    float: left
+		}
+
+
+    .item
+        {
+		    width: 100%;
+		    height: 90px;               
+		    background-color:#FFFFFF;
+		    display: flex;
+            justify-content: center;
+			
+		}
+
+     .item01
+        {
+		    width: 14%;
+		    height: 50px;               
+		    background-color:#DADADA;
+		    float: left;
+			margin: 1%;
+			font-size: 18px;
+			
+			
+			
+		}
+
+       .item02
+        {
+		    width: 14%;
+		    height: 50px;               
+		    background-color:#DADADA;
+		    margin: 1%;
+			font-size: 18px;
+		}
+
+   
+
+       .item03
+        {
+		    width: 14%;
+		    height: 50px;               
+		    background-color:#DADADA;
+		    margin: 1%;
+			font-size: 18px;
+		}
+
+    
+       .item04
+        {
+		    width: 14%;
+		    height: 50px;               
+		    background-color:#DADADA;
+		    margin: 1%;
+			font-size: 18px;
+		}
+
+         
+
+
+
+
+       .item1
+        {
+		    width: 100%;
+		    height: 300px;               
+		    background-color:#F0F0F0;
+		    display: flex;
+            justify-content: center;
+			
+		}
+
+
+        .item001
+        {
+		    width: 80%;
+		    height: 350p;               
+		    background-color:#FFFFFF;
+		    margin: 1%;
+			box-sizing: border-box;
+			padding: 90px;
+			font-size: 19px;
+			
+			
+		}
+
+
+       
+
+
+
+       .item2
+        {
+		    width: 100%;
+		    height: 550px;               
+		    background-color:#F0F0F0;
+		    display: flex;
+            justify-content: center;
+			
+		}
+
+
+         .item0001
+        {
+		    width: 25%;
+		    height: 480px;               
+		    
+		    margin: 1%;
+		}
+
+
+          .item0002
+        {
+		    width: 25%;
+		    height: 480px;               
+		   
+		    margin: 1%;
+		}
+
+
+           .item0003
+        {
+		    width: 25%;
+		    height: 480px;               
+		    
+		    margin: 1%;
+		}
+
+     
+
+       .logo1
+        {
+		    width: 100%;
+		    height: 200px;               
+		    background-color:#FFFFFF;
+			display: flex;
+            justify-content:center;
+		    
+			
+		}	 
+        		
+	    .item00001
+        {
+		    width: 0%;
+		    height: 50px;               
+		    background-color:#FFFFFF;
+		    margin: 3%;
+			
+     
+        }
+		
+     
+		
+           .item00002
+        {
+		    width: ;
+		    height: ;               
+		    background-color:;
+		    margin: 3.5%;
+			font-size: 30px;
+		}
+	
+			
+	
+       .logo2
+        {
+		    width: 100%;
+		    height: 400px;               
+		    background-color:#FFFFFF;
+			display: flex;
+            justify-content: center;
+			
+		}	 
+			
+ 
+             .item000001
+        {
+		    width: 20%;
+		    height: 370px;               
+		    background-color:;
+		    margin: 1%;
+			
+		}
+
+
+             .item000002
+        {
+		    width: 20%;
+		    height: 265px;               
+		    background-color:;
+		    margin: 1%;
+		}
+
+
+            .item000003
+        {
+		    width: 20%;
+		    height: 265px;               
+		    background-color:;
+		    margin: 1%;
+		}
+
+
+            .item000004
+        {
+		    width: 20%;
+		    height: 265px;               
+		    background-color:;
+		    margin: 1%;
+		}
+
+
+       
+       .logo4
+        {
+		    width: 100%;
+		    height: 500px;               
+		    background-color:#F8FF00;
+			display: flex;
+            justify-content: center;
+		}
+
+
+ .menu ul
+
+{
+	list-style: none;
+	
+}
+
+
+.menu ul li
+{
+	
+	 padding: 20px;
+	 float:left;
+     position: relative;
+	 font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";	
+	
+}
+.menu ul li a 
+{
+	
+	text-decoration: none;
+	color: #000000;
+	font-size: 17px;
+    
+}
+
+
+.menu ul li:hover
+{
+	
+	border-bottom: 4px solid #FC0004;
+	
+}
+
+
+.menu ul li ul
+{
+	
+	position: absolute;
+	top: 60px;
+	left: -40px;
+	visibility: hidden;
+	
+}
+
+
+
+.menu ul li ul li
+{
+	
+	width: 150px;
+	background-color: #F0F0F0;
+	
+	
+}
+
+
+
+.menu ul li:hover ul
+{
+	
+	visibility: visible;
+	
+	
+}
+
+
+.menu ul li
+{
+	
+	text-decoration: none;
+	
+}
+
+
+
+
+         
+       .logo4
+        {
+		    width: 100%;
+		    height: 300px;               
+		    background-color:#FFFFFF;
+			display: flex;
+            justify-content: center;
+			
+		}
+
+
+
+
+
+
+
+      .cuoi1
+        {
+		    width: 7%;
+		    height: 200px;               
+		    background-color:#FFFFFF;
+		    margin: 5%;
+			
+			
+		}
+
+
+             .cuoi2
+        {
+		    width: 10%;
+		    height: 200px;               
+		    background-color:#FFFFFF;
+		    margin: 5%;
+		}
+
+
+            .cuoi3
+        {
+		    width: 7%;
+		    height: 200px;               
+		    background-color:#FFFFFF;
+		    margin: 5%;
+		}
+
+
+            .cuoi4
+        {
+		    width: 7%;
+		    height: 200px;               
+		    background-color:#FFFFFF;
+		    margin: 5%;
+		}
+
+
+
+
+  .logo5
+        {
+		    width: 100%;
+		    height: 128px;               
+		    background-color:#F0F0F0;
+			display: flex;
+            justify-content: center;
+			
+		}
+
+
+
+
+
+       .sdt1
+        {
+		    width: 16%;
+		    height: 100px;               
+		    background-color:;
+		    margin: 1%;
+			font-size: 50px;
+			
+		}
+
+       
+         .sdt2
+        {
+		    width: 16%;
+		    height: 100px;               
+		    background-color:;
+		    margin: 1%;
+			font-size: 50px;
+		}
+
+ 
+
+           .sdt3
+        {
+		    width: 16%;
+		    height: 100px;               
+		    background-color:;
+		    margin: 1%;
+			font-size: 50px;
+		}
+
+
+      
+
+
+        .Showroom
+        {
+		    width: 100%;
+		    height: 300px;               
+		    background-color:#F0F0F0;
+		    display: flex;
+            justify-content: center;
+			margin: 2px;
+		}
+
+     
+       .Showroom1
+        {
+		    width: 60%;
+		    height: 250px;               
+		    background-color:#F0F0F0;
+		    margin: 3%;
+			font-size: 22px;
+		}
+
+      .Showroom2
+        {
+		    width: 11%;
+		    height: 60px;               
+		    background-color:#F0F0F0;
+		    margin: 3%;
+			right: 50%;
+		}

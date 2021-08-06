@@ -6,7 +6,7 @@
 	.hinhbunhath
         		{
 		    width: 100%;
-		    height: ;              
+		    height:100%;              
 		    background-color:#FFFFFF;
 		}
 		  
@@ -14,7 +14,7 @@
         		{
 		    width: 100%;
 		    height: 80px;               
-		    background-color:#FF0004;
+		    background-color:#FFFFFF;
 		}	  
 		  
 	.hinhxanh
@@ -116,7 +116,7 @@
         {
 		    width: 100%;
 		    height: 300px;               
-		    background-color:#F0F0F0;
+		    background-color:#FFFFFF;
 		    display: flex;
             justify-content: center;
 			
@@ -145,7 +145,7 @@
         {
 		    width: 100%;
 		    height: 550px;               
-		    background-color:#F0F0F0;
+		    background-color:#FFFFFF;
 		    display: flex;
             justify-content: center;
 			
@@ -411,7 +411,7 @@
         {
 		    width: 100%;
 		    height: 128px;               
-		    background-color:#F0F0F0;
+		    background-color:#FFFFFF;
 			display: flex;
             justify-content: center;
 			
@@ -460,7 +460,7 @@
         {
 		    width: 100%;
 		    height: 300px;               
-		    background-color:#F0F0F0;
+		    background-color:#FFFFFF;
 		    display: flex;
             justify-content: center;
 			margin: 2px;
@@ -471,7 +471,7 @@
         {
 		    width: 60%;
 		    height: 250px;               
-		    background-color:#F0F0F0;
+		    background-color:#FFFFFF;
 		    margin: 3%;
 			font-size: 22px;
 		}
@@ -480,7 +480,7 @@
         {
 		    width: 11%;
 		    height: 60px;               
-		    background-color:#F0F0F0;
+		    background-color:#FFFFFF;
 		    margin: 3%;
 			right: 50%;
 		}
